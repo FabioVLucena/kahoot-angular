@@ -1,2 +1,3 @@
 # kahoot-angular
-Projeto de estudo  sobre a plataforma Kahoot
+
+Projeto de estudo sobre a plataforma Kahoot
