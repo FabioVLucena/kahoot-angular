@@ -1,2 +1,12 @@
 /* You can add global styles to this file, and also import other style files */
 @import "tailwindcss";
+
+html,
+body {
+  overflow-x: hidden; /* Bloqueia scroll lateral */
+}
+
+body {
+  padding: 20px 10px 0px 10px;
+  height: 100vh;
+}
